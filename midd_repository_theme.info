@@ -1,0 +1,19 @@
+name = Middlebury Repository Theme
+description = Theme for repository.middlebury.edu
+core = 7.x
+engine = phptemplate
+
+stylesheets[all][] = midd_repository_theme.css
+
+regions[header] = Header
+
+regions[page_top] = Page top
+regions[page_bottom] = Page bottom
+
+regions[highlighted] = Highlighted
+regions[help] = Help
+regions[content] = Content
+
+regions[sidebar_first] = Sidebar first
+regions[featured] = Featured
+regions[sidebar_second] = Sidebar second

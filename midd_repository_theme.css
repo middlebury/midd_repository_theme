@@ -1,0 +1,5 @@
+/**
+ * Stylesheet with overrides for the midd_repository_theme theme.
+ */
+
+.menu li a { display: inline; }
